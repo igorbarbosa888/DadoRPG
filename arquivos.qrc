@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>C:/Users/igors/Downloads/d8_col.png</file>
+        <file>C:/Users/igors/Downloads/d20_col_1.png</file>
+    </qresource>
+</RCC>
